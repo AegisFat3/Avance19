@@ -1,0 +1,86 @@
+/* ESTE ES EL CSS DEL Registro y del login tiene el nombre de donaciones pero lo cambiare en la siguiente actualizacion :D*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  
+  body {
+    background-image: url('./FondoRL.jpg');
+  }
+  
+  .Donaciones {
+    width: 500px;
+    background: #6079c5;
+    padding: 30px;
+    margin: auto;
+    margin-top: 90px;
+    border-radius: 20px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+
+  }
+  
+  .Donaciones h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .controls {
+    transition: all .2 ease-out;
+    width: 100%;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 6px;
+    margin-bottom: 16px;
+    border: 1.5px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+  }
+
+  .control {
+    text-align: left;
+  }
+
+  .controls:hover {
+    background: #080c34;
+    border: 1.5px solid #c51f1f;
+  }
+  
+  .Donaciones p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+  }
+  
+  .Donaciones a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .Donaciones a:hover {
+    color: white;
+    text-decoration: underline;
+  }
+  
+  .Donaciones .boton {
+    transition: all .2s ease-out;
+    width: 100%;
+    background: #080c34;
+    border: none;
+    padding: 15px;
+    color: white;
+    margin: 26px 0;
+    font-size: 30px;
+    border-radius: 30px;
+  }
+
+  .Donaciones .boton:hover {
+    background: #039ffa;
+    font-size: 30px;
+  }

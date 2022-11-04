@@ -1,0 +1,16 @@
+En esta actualizacion se cambio la pagina principal con el carrusel 
+tambien se empezo a trabajar los jsp con la conexion de la base de datos
+(Reutilize un poco de codigo de mi proyecto del anterior semestre por si 
+se ven algunos datos o codigo medio raro o con nombres que no concuerdan 
+al 100%)
+
+Se añadio html de el login y el registro de la pagina junto a su css
+este modulo ya esta validado para que el usuario no inserte datos 
+que no acepta la base de datos y asi xd
+
+Hay un notable deshorden en los archivos y un poco en el codigo 
+pero esto se corregira y se mejorara con el tiempo ya que formatee
+el pc y tengo que reinstalar netbeans y las configuraciones de java 
+y mysql para ir trabajando tambien en la base de datos y las demas
+funcionalidades de la pagina
+xd
